@@ -9,7 +9,12 @@ updated semantic tag for nav bar from <div> to <tag>
 
 <MAIN> CHANGES
 changed <div class="content">...</div> to <main>...</main>
+Deleted Class attributes from each section.  IDs were assigned since each section is unique.
 
+
+<ASIDE> CHANGES
+changed <div class="benefits">...</div> to <aside>...</aside>
+Only one class needed for all 3 divs.  Changed to <div class="benefit>
 
 
 style.css updates
@@ -22,3 +27,6 @@ changed tags in stylesheet to match tag changes made in index.html
     list-style-type: none;
 }"
 consolidated separate <h2> in <main> since all had same styling.
+
+<ASIDE> CHANGES
+Corrected stylesheet to match class names and tag name changes that were made on index.HTML
