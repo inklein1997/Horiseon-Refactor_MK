@@ -16,6 +16,9 @@ Deleted Class attributes from each section.  IDs were assigned since each sectio
 changed <div class="benefits">...</div> to <aside>...</aside>
 Only one class needed for all 3 divs.  Changed to <div class="benefit>
 
+<FOOTER> CHANGES
+changed <div class="footer">...</div> to <footer>...</footer>
+
 
 style.css updates
 
@@ -32,3 +35,5 @@ Consolidated all section elements to remove unnecessary and redundant style code
 <ASIDE> CHANGES
 Corrected stylesheet to match class names and tag name changes that were made on index.HTML
 
+<FOOTER> CHANGES
+Corred stylesheet to match class names and tag name changes that were made on index.HTML
