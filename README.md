@@ -10,11 +10,12 @@ updated semantic tag for nav bar from <div> to <tag>
 <MAIN> CHANGES
 changed <div class="content">...</div> to <main>...</main>
 Deleted Class attributes from each section.  IDs were assigned since each section is unique.
-
+added "alt" attributes to imgs
 
 <ASIDE> CHANGES
 changed <div class="benefits">...</div> to <aside>...</aside>
-Only one class needed for all 3 divs.  Changed to <div class="benefit>
+Only one class needed for all 3 divs.  Changed to <div class="benefit">...</div>
+added "alt" attributes to imgs
 
 <FOOTER> CHANGES
 changed <div class="footer">...</div> to <footer>...</footer>
