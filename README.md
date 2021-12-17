@@ -27,6 +27,8 @@ changed tags in stylesheet to match tag changes made in index.html
     list-style-type: none;
 }"
 consolidated separate <h2> in <main> since all had same styling.
+Consolidated all section elements to remove unnecessary and redundant style code
 
 <ASIDE> CHANGES
 Corrected stylesheet to match class names and tag name changes that were made on index.HTML
+
