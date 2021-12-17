@@ -1,3 +1,4 @@
+/* Universal tag affects all elements on page */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -21,7 +22,7 @@ header h1 {
     font-size: 48px;
 }
 
-header h1 .seo {
+header h1 #seo {
     color: #d9dcd6;
 }
 

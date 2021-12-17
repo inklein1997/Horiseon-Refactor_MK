@@ -5,6 +5,7 @@ index.HTML updates
 <HEADER> CHANGES
 updated semantic tag for header from <div> to <header>
 updated semantic tag for nav bar from <div> to <tag>
+changed span class attribute to id attribute
 
 
 <MAIN> CHANGES
