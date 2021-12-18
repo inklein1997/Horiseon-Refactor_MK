@@ -1,4 +1,5 @@
 /* Universal tag affects all elements on page */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -93,7 +94,7 @@ main section img {
 
 
 
-/* Aside Bar */
+/* Float: right places aside on right side of page */
 
 aside {
     margin-right: 20px;

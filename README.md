@@ -1,8 +1,19 @@
 # Horiseon-Refactor_MK
 
-## index.html updates
+## LINK TO DEPLOYED APPLICATION
+https://inklein1997.github.io/Horiseon-Refactor_MK/
 
+## DESCRIPTION
+The original code supplied by curriculum has been modified for improved web accessibility
 
+## SCREENSHOT
+![Screenshot of page](./assets/images/inklein1997.github.io_Horiseon-Refactor_MK.png)
+
+## Below you will find general changes made to original code
+
+---
+### index.html updates
+---
 **HEADER CHANGES**
 ```
 updated semantic tag for header from <div> to <header>
@@ -26,10 +37,9 @@ added "alt" attributes to imgs
 ```
 changed div class="footer".../div to footer.../footer
 ```
-
-## style.css updates
-
-
+---
+### style.css updates
+---
 **general**
 ```
 changed tags in stylesheet to match tag changes made in index.html
@@ -52,11 +62,3 @@ Corrected stylesheet to match class names and tag name changes that were made on
 ```
 Corred stylesheet to match class names and tag name changes that were made on index.HTML
 ```
-## LINK TO DEPLOYED APPLICATION
-https://inklein1997.github.io/Horiseon-Refactor_MK/
-
-## DESCRIPTION
-The original code supplied by curriculum has been modified and corrected for improved web accessibility
-
-## SCREENSHOT
-![Screenshot of page](./assets/images/inklein1997.github.io_Horiseon-Refactor_MK.png)
