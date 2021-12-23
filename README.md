@@ -1,17 +1,23 @@
 # Horiseon-Refactor_MK
 
-## LINK TO DEPLOYED APPLICATION
-https://inklein1997.github.io/Horiseon-Refactor_MK/
+## Table of Contents
+- [Project Goal](##Project-Goal)
+- [Links](##Links)
+- [Screenshot](##Screenshot)
+- [Changes Made to Primary Code](#Changes-Made-to-Primary-Code)
+- [Acknowledgements](##Acknowledgements)
 
-## DESCRIPTION
-The original code supplied by curriculum has been modified for improved web accessibility
+## Project Goal
+The intention of this project is to **refactor**, or improve code without changing what it does, to ensure that the application meets accessibility standards.  This was done utilizing semantic element tags and alt attributes.
+
+## Links
+- [URL to Deployed Application](https://inklein1997.github.io/Horiseon-Refactor_MK/)
+- [URL to Github Repository](https://github.com/inklein1997/Advanced-CSS-mini-project)
 
 ## SCREENSHOT
 ![Screenshot of page](./assets/images/inklein1997.github.io_Horiseon-Refactor_MK.png)
 
-## Below you will find general changes made to original code
-
----
+## Changes Made to Primary code
 ### index.html updates
 ---
 **HEADER CHANGES**
@@ -37,10 +43,10 @@ added "alt" attributes to imgs
 ```
 changed div class="footer".../div to footer.../footer
 ```
----
+
 ### style.css updates
 ---
-**general**
+**GENERAL**
 ```
 changed tags in stylesheet to match tag changes made in index.html
 reordered css style elements to match flow of index.html
@@ -62,3 +68,6 @@ Corrected stylesheet to match class names and tag name changes that were made on
 ```
 Corred stylesheet to match class names and tag name changes that were made on index.HTML
 ```
+
+## Acknowledgements
+-  Original code was supplied by the University of Texas at Austin Bootcamp curriculum.
